@@ -12,7 +12,7 @@ const time1=1513768139127
 const durate1=1536
 
 
-const testfile0 = 'vdeo_'+disp0+'_'+time0+'.flv'
+const testfile0 = '/ee/cc/vdeo_'+disp0+'_'+time0+'.flv'
 
 const testfile1 = 'vdeo_'+disp1+'_'+time1+'_'+durate1+'.flv'
 
@@ -70,5 +70,7 @@ describe('fileparser', function () {
     })
 
   })
+
+  // TODO: test constructFileObject
 
 })

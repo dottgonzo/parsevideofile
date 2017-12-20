@@ -8,7 +8,7 @@ var time0 = 1513768109127;
 var disp1 = '4453';
 var time1 = 1513768139127;
 var durate1 = 1536;
-var testfile0 = 'vdeo_' + disp0 + '_' + time0 + '.flv';
+var testfile0 = '/ee/cc/vdeo_' + disp0 + '_' + time0 + '.flv';
 var testfile1 = 'vdeo_' + disp1 + '_' + time1 + '_' + durate1 + '.flv';
 describe('fileparser', function () {
     describe('test file with device and timestamp', function () {

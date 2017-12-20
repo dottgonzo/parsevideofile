@@ -1,6 +1,6 @@
 {
   "name": "parsevideofile",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Parse A Video file made by DEVICE_TIMESTAMP_DURATION.EXTENSION",
   "main": "index.js",
   "scripts": {
