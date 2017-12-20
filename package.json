@@ -1,0 +1,26 @@
+{
+  "name": "parsevideofile",
+  "version": "0.0.1",
+  "description": "Parse A Video file made by DEVICE_TIMESTAMP_DURATION.EXTENSION",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha",
+    "build": "./node_modules/typescript/bin/tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dottgonzo/parsevideofile.git"
+  },
+  "author": "Dario Caruso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dottgonzo/parsevideofile/issues"
+  },
+  "homepage": "https://github.com/dottgonzo/parsevideofile#readme",
+  "devDependencies": {
+    "@types/mocha": "^2.2.44",
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1",
+    "typings": "^2.1.1"
+  }
+}
